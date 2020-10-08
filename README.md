@@ -2,6 +2,8 @@
 
 ## 
 
+[Alexa donde están mis llaves](https://twitter.com/vivirenremoto/status/1313772722539896834?s=12) con arduino+GPS, un servicio web y una app en Alexa puede ser la solucion...
+
 [Cómo diseñar una (buena) Skill de Alexa](https://planetachatbot.com/como-disenar-skill-de-alexa-f5ef3cb2162c) Cualquier persona con conocimientos de desarrollo puede crear una Skill, pero hay que tener en cuenta diversos aspectos dentro del desarrollo de una Skill para poder crear una Skill de calidad, atractiva al usuario, que haga que el usuario quiera volver a usarla. Para ello la skill deben tener las siguietnes ciertas características:
 * Internacionalizacion, en caso de usarse en distintas regiones, y debe ofrecer variedad en las respuestas.
 * Persistencia de datos, es facil de implementar y marca la diferencia para adaptar respuestas al contexto del usuario. La primera vez hay que explicar bien la skill, pero luego no hace falta, etc.
